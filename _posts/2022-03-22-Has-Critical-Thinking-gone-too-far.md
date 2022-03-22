@@ -1,5 +1,13 @@
-<font size="6px">Has "Critical Thinking" gone too far?</font>
+---
+toc: false
+layout: post
+description: Whilst schools champion for more critical thinking amongst the students, it is noteworthy to ask just where we should stop.
+categories: [english, writing]
+title: Has "Critical Thinking" gone too far?
+---
 
+<font size="6px">Has "Critical Thinking" gone too far?</font>
+<br>
 <font size="4px">Whilst schools champion for more critical thinking amongst the students, it is noteworthy to ask just where we should stop.</font>
 <hr>
 
