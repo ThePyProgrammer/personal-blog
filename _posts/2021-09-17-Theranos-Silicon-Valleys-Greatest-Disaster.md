@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-description: My review of Ellen Pao's Article on Elizabeth Holmes and Sexism in Tech
+description: My review of the Article on Elizabeth Holmes and Sexism in Tech by Ellen Pao
 categories: [english, writing]
 title: Theranos: Silcon Valley’s Greatest Disaster
 ---
