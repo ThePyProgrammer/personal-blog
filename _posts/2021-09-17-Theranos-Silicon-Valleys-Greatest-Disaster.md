@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: My review of Ellen Pao's article on Elizabeth Holmes and Sexism in Tech
-categories: [english, writing]
+categories: [writing]
 title: Theranos - Silicon Valley’s Greatest Disaster
 ---
 

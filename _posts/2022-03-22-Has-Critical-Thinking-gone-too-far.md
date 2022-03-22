@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: Whilst schools champion for more critical thinking amongst the students, it is noteworthy to ask just where we should stop.
-categories: [english, writing]
+categories: [writing]
 title: Has "Critical Thinking" gone too far?
 ---
 

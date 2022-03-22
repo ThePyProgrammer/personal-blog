@@ -2,7 +2,7 @@
 toc: false
 layout: post
 description: Thriving in a Job Sector Overvaluing Itself.
-categories: [english, writing]
+categories: [writing]
 title: Professional Experience in a Personal World
 ---
 
