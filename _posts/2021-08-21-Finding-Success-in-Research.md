@@ -7,8 +7,7 @@ title: Finding Success in Research
 ---
 
 ![](https://miro.medium.com/max/875/1*AwEWQ9jU9IIIad0QIGGl4g.jpeg)
-
-Photo by [Annie Sprat](https://unsplash.com/@anniespratt) on [Unsplash](https://unsplash.com/)
+<p align="center">Photo by <a href="https://unsplash.com/@anniespratt">Annie Sprat</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 
 Reading the title, you must be thinking: “what does a high-schooler in a country like Singapore know about research?”. And you’d be right. I don’t know everything about research. I don’t understand some complex paper titles and I’m certainly unable to read them. But that’s besides the point.
 
