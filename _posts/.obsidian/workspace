@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "e1bf573a34a6c5d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db4ed21bfedd1139",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7639d95d2fe8d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce366748dcc0efb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e653ceed51495706",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "443e1ff50fe5df49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16e4fc7eb9016da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb7a0c4cd755f6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a489158874fedc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db4ed21bfedd1139",
+  "lastOpenFiles": [
+    "2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md",
+    "2022-03-22-Has-Critical-Thinking-gone-too-far.md",
+    "2022-03-22-Professional-Experience-in-a-Personal-World.md"
+  ]
+}
