@@ -26,4 +26,4 @@ He stated all this, yet he himself had not actually participated in the competit
 
 Believe it or not, this behaviour has been heralded by today's schools, with the intention being to ingrain in students the many critical thinking capabilities that are believed to be a crucial part of the learning of a student.
 
-Yet, somehow somewhere, the definition of critical thinking has become somewhat corrupted. From identifying the many stakeholders and perspectives, we have descended to a point of considering the flaws in many plans afflicted by the 
+Yet, somehow somewhere, the definition of critical thinking has become somewhat corrupted. From identifying the many stakeholders and perspectives, we have descended to a point of considering the flaws in many works, without once considering their positive aspects. We fail to see that no matter what, any 
