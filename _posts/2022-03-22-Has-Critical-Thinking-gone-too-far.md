@@ -6,6 +6,10 @@ categories: [writing]
 title: Has "Critical Thinking" gone too far?
 ---
 
+```kotlin
+// TODO
+```
+
 I am a student in NUS High School, so I am by no means representative of the larger populace. But I wish to write this article to illustrate a key issue that I have noticed largely amongst my fellow peers - one of cynicism being passed off as "Critical Thinking".
 
 As our curriculum edges closer and closer to the standards of the General Paper, a now infamous assessment which is part of the GCE 'A' Level Examination that nearly all Singaporean Junior College Students are required to take, I have noticed a shocking twist in the way that certain people have started to act, whether that be during lessons or even during breaks. The way they speak, the way they act, the way they present themselves have all pointed to some form of large-scale condescension. Seeing your relatively hated solution as the only one that works, yet criticizing others for projects that were well-liked by assessers has became a true pinnacle of school life for myself.

@@ -5,6 +5,9 @@ description: My review of Ellen Pao's article on Elizabeth Holmes and Sexism in 
 categories: [writing]
 title: Theranos - Silicon Valley’s Greatest Disaster
 ---
+```kotlin
+// TODO
+```
 
 In the post, I review [this article](https://www.nytimes.com/2021/09/15/opinion/elizabeth-holmes-trial-sexism.html).
 
