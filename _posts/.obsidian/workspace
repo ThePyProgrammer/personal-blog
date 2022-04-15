@@ -7,12 +7,8 @@
         "id": "db4ed21bfedd1139",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-03-31-Introduction-to-Knowledge-Distillation-and-Expansion.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-31-Introduction-to-Knowledge-Distillation-and-Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +84,12 @@
   },
   "active": "db4ed21bfedd1139",
   "lastOpenFiles": [
+    "Untitled.md",
     "2022-03-31-Introduction-to-Knowledge-Distillation-and-Expansion.md",
-    "2022-03-22-Professional-Experience-in-a-Personal-World.md",
-    "2021-08-21-Finding-Success-in-Research.md",
+    "2022-03-22-Has-Critical-Thinking-gone-too-far.md",
     "2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md",
-    "2022-03-22-Has-Critical-Thinking-gone-too-far.md"
+    "2021-08-21-Finding-Success-in-Research.md",
+    "2022-03-22-Professional-Experience-in-a-Personal-World.md",
+    "I died for Op-Ed.md"
   ]
 }
