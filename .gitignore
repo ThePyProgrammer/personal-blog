@@ -12,3 +12,9 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+
+
+# Stupid Incomplete Files
+2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md
+2022-03-22-Has-Critical-Thinking-gone-too-far.md
+2022-03-31-Introduction-to-Knowledge-Distillation-and-Expansion.md
