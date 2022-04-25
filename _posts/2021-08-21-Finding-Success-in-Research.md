@@ -1,5 +1,5 @@
 ---
-toc: true
+toc: false
 layout: post
 description: I once thought I would never pursue research in my life. But times have changed, and so have I.
 categories: [research]
