@@ -7,8 +7,12 @@
         "id": "20be9f0feedd575f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021-08-21-Finding-Success-in-Research.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-08-21-Finding-Success-in-Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +89,11 @@
   },
   "active": "20be9f0feedd575f",
   "lastOpenFiles": [
+    "2021-08-21-Finding-Success-in-Research.md",
+    "2022-04-17-Professional-Experience-in-a-Personal-World.md",
     "unfinished/2022-03-31-Introduction-to-Knowledge-Distillation-and-Expansion.md",
     "unfinished/2022-03-22-Has-Critical-Thinking-gone-too-far.md",
     "unfinished/2021-09-17-Theranos-Silicon-Valleys-Greatest-Disaster.md",
-    "2021-08-21-Finding-Success-in-Research.md",
-    "2022-04-17-Professional-Experience-in-a-Personal-World.md",
     "Untitled.md",
     "I died for Op-Ed.md"
   ]

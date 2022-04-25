@@ -5,6 +5,10 @@ description: Thriving in a Job Sector Overvaluing Itself.
 categories: [writing]
 title: Professional Experience in a Personal World
 ---
+<p align="center">
+<img src="https://miro.medium.com/max/875/1*UkjBKnH3hxdh_bGg69fpXw.jpeg" />
+<br>Photo by <a href="https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">SpaceX</a> on <a href="https://unsplash.com/s/photos/spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</p>
 
 Elon Musk is known for many things. CEO of Tesla. The world’s richest man. _Buzzworthy tweets_. But it is a lesser-known fact that he is a highly motivated self-learner and a polymath who believes in diving deep into the subjects of his interest and mastering them on his own. Musk unknowingly serves as an antithesis to the pressing issue of the glorification of ineffective professional experience in the job sector, which has bred a gatekept industry with unreasonable recruitment policies. In this article, I unearth this traditional policy and suggest some possible alternatives for companies and job-seeking students.
 
