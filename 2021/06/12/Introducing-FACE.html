@@ -10,15 +10,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Our Rationale" />
 <meta property="og:description" content="Our Rationale" />
-<link rel="canonical" href="https://blog.prannaya.tech//2021/06/12/Introducing-FACE.html" />
-<meta property="og:url" content="https://blog.prannaya.tech//2021/06/12/Introducing-FACE.html" />
+<link rel="canonical" href="https://blog.prannaya.ml//2021/06/12/Introducing-FACE.html" />
+<meta property="og:url" content="https://blog.prannaya.ml//2021/06/12/Introducing-FACE.html" />
 <meta property="og:site_name" content="AntiTextual" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2021-06-12T00:00:00-05:00" />
 <script type="application/ld+json">
-{"url":"https://blog.prannaya.tech//2021/06/12/Introducing-FACE.html","@type":"BlogPosting","headline":"Introducing Face","dateModified":"2021-06-12T00:00:00-05:00","datePublished":"2021-06-12T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.prannaya.tech//2021/06/12/Introducing-FACE.html"},"description":"Our Rationale","@context":"https://schema.org"}</script>
+{"url":"https://blog.prannaya.ml//2021/06/12/Introducing-FACE.html","@type":"BlogPosting","headline":"Introducing Face","dateModified":"2021-06-12T00:00:00-05:00","datePublished":"2021-06-12T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://blog.prannaya.ml//2021/06/12/Introducing-FACE.html"},"description":"Our Rationale","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://blog.prannaya.tech//feed.xml" title="AntiTextual" /><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://blog.prannaya.ml//feed.xml" title="AntiTextual" /><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" /><script src="https://hypothes.is/embed.js" async></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css" integrity="sha512-h7nl+xz8wgDlNM4NqKEM4F1NkIRS17M9+uJwIGwuo8vGqIl4BhuCKdxjWEINm+xyrUjNCnK5dCrhM0sj+wTIXw==" crossorigin="anonymous" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.js" integrity="sha512-/CMIhXiDA3m2c9kzRyd97MTb3MC6OVnx4TElQ7fkkoRghwDf6gi41gaT1PwF270W6+J60uTmwgeRpNpJdRV6sg==" crossorigin="anonymous"></script>
@@ -122,7 +122,7 @@ window.onload = wrap_img;
 
 <p>We trained a Convolutional Neural Network (CNN) against a dataset that we had with us. We trained the CNN, which was developed via the following prototype emotion model code written in TensorFlow Keras with Python:</p>
 
-<p><img src="https://blog.prannaya.tech//assets/img/2021-06-12-Introducing-FACE/media/image2.png" alt="" /></p>
+<p><img src="https://blog.prannaya.ml//assets/img/2021-06-12-Introducing-FACE/media/image2.png" alt="" /></p>
 
 <p>The model takes in a grayscale version of the image and returns the probability function. This was as part of our research, where previous papers and examples showed this to be the most accurate model found so far. We then used an Adam optimizer with a learning rate of 0.0001 and decay of 10<sup>-6</sup>, basing our training system on the accuracy of the model. Over 50 epochs, we were able to get a final product with training accuracy of 87.02% and validation accuracy (testing accuracy) of 62.83%.</p>
 
@@ -133,21 +133,21 @@ window.onload = wrap_img;
 <h2 id="the-desktop-client">The Desktop Client</h2>
 
 <p>Our desktop accesses the Webcam footage of a user to analyze faces and, based off each face, run it through the CNN. The CNN returns a dictionary containing the probability of each emotion being the case. To make the User Interface simpler for the user, our desktop client only displayed the most likely emotion. This emotion is displayed along with a rectangle that is displayed on top of the face, as found by OpenCV. The following is the simplistic UI of the Desktop Client:<br />
-<img src="https://blog.prannaya.tech//assets/img/2021-06-12-Introducing-FACE/media/image3.png" alt="" /></p>
+<img src="https://blog.prannaya.ml//assets/img/2021-06-12-Introducing-FACE/media/image3.png" alt="" /></p>
 
 <h2 id="the-web-client">The Web Client</h2>
 
 <p>The web client, developed with the Flask Web Framework, was developed as a prototype due to time constraints and the difficulty of integrating the front-end of the web application with the backend. The prototype captures the essence of FACE and utilises the CNN to its best ability. A user-friendly web interface first asks you to take a photo of yourself or upload a pre-existing photo which is saved as a .jpg or .png file. Following this, the analyzer can be used by clicking on the link provided and pressing a button shown, prompting one to select the image from the hard drive. Following this, pressing the submit button allows the website to run the image through the CNN model, allowing it to guess your emotion based on a facial expression. Although simplistic, under the hood lies a great Machine Learning model with a lot of untapped potential, which we believe sets it apart from other metrics.</p>
 
-<p><img src="https://blog.prannaya.tech//assets/img/2021-06-12-Introducing-FACE/media/image4.png" alt="" /></p>
+<p><img src="https://blog.prannaya.ml//assets/img/2021-06-12-Introducing-FACE/media/image4.png" alt="" /></p>
 
 <p>Figure: Analyzer Page</p>
 
-<p><img src="https://blog.prannaya.tech//assets/img/2021-06-12-Introducing-FACE/media/image5.png" alt="" /></p>
+<p><img src="https://blog.prannaya.ml//assets/img/2021-06-12-Introducing-FACE/media/image5.png" alt="" /></p>
 
 <p>Figure: Classification Page</p>
 
-<p><img src="https://blog.prannaya.tech//assets/img/2021-06-12-Introducing-FACE/media/image6.png" alt="" /></p>
+<p><img src="https://blog.prannaya.ml//assets/img/2021-06-12-Introducing-FACE/media/image6.png" alt="" /></p>
 
 <p>Figure: README</p>
 
